@@ -10,9 +10,11 @@
 <a href= "https://github.com/krisdowis"><img src="https://img.icons8.com/material/32/000000/github.png"/></a>
 <a href= "mailto:krisdowisonline@gmail.com"><img src="https://img.icons8.com/material/32/000000/gmail--v1.png"/></a>
 </p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krisdowis&theme=radical)
 <p align="center"><samp>
 Check out my repos ⬇️  
+
   </samp>
 </p>
 
